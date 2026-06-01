@@ -1,16 +1,23 @@
-## Hi there 👋
+```markdown id="readme91"
+# Hi, I'm Prosper 👋
 
-<!--
-**prosperomoefe/prosperomoefe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computational Biology and Public Health researcher with interests in:
 
-Here are some ideas to get you started:
+- Computational Biology
+- Epidemiology
+- Bioinformatics
+- AI Evaluation
+- Health Data Analysis
+- Python for Scientific Computing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools & Skills
+- Python
+- Jupyter Notebook
+- SQL
+- Excel
+- Data Analysis
+- Scientific Research
+
+Currently building projects related to computational biology and public health analytics.
+```
+
